@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="look_at_all_comment">查看全部评论</string>
+    <string name="product_detail">商品详情</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="tvc292929">#292929</color>
+    <color name="white">#fff</color>
+    <color name="blue">#00f</color>
+    <color name="main_text_color">#0079c3</color>
+    <color name="detaile_text_color">#7d7d7d</color>
+</resources>
